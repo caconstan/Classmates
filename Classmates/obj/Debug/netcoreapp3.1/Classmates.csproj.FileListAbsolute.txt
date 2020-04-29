@@ -1,0 +1,13 @@
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\bin\Debug\netcoreapp3.1\Classmates.exe
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\bin\Debug\netcoreapp3.1\Classmates.deps.json
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\bin\Debug\netcoreapp3.1\Classmates.runtimeconfig.json
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\bin\Debug\netcoreapp3.1\Classmates.runtimeconfig.dev.json
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\bin\Debug\netcoreapp3.1\Classmates.dll
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\bin\Debug\netcoreapp3.1\Classmates.pdb
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.AssemblyInfo.cs
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.dll
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.pdb
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.genruntimeconfig.cache
+C:\Users\Chris\Documents\GC bootcamp\week2\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.csprojAssemblyReference.cache
